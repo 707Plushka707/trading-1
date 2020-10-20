@@ -5,7 +5,7 @@ const binance = new Binance().options({
   APISECRET: 'hmubUwcoaoZKnmBrKXvIJbTa5tlxmItgLYKbm0W9Urj74xIBDCmJgHDq9D8tI7l1'
 });
 */
-const WebSocket = require('ws');
+const WebSocket = require('ws'); 
 var db = require("./config");
 var dateTime = require('node-datetime');
 var someVar = [];
