@@ -1,0 +1,27 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "awalul mukminin",
+  "main": "node_app.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "got": "^11.7.0",
+    "http": "0.0.1-security",
+    "jsdom": "^16.4.0",
+    "mysql": "^2.18.1",
+    "node-datetime": "^2.1.2",
+    "node-iframe": "^1.5.10",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "sys": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "halo moto"
+  },
+  "author": "havid",
+  "license": "ISC"
+}
